@@ -1,0 +1,17 @@
+.application {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #AAB9CF;
+    color: #212227;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.sign-up-form {
+    margin-bottom: 20px;
+}
+
+.authenticate {
+    margin: auto;
+}
